@@ -5,4 +5,4 @@ Project Name: PROJECT_NAME
 
 Team Members: STUDENTS_NETIDS
 
-Project Manager: PM_NETID
+Project Manager: pbairwa2, chamoli2

@@ -1,5 +1,5 @@
 # Group 5
-Project Name: UNDECIDED
+Project Name: Spiral.ai
 
 [MVP Link](https://docs.google.com/document/d/13tKaAO3F7389MCWfBkIF72iIuxsMlmps/edit)
 
